@@ -18,9 +18,10 @@ public class Ball : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision2D) 
     {
-        if (collision2D.gameObject.TryGetComponent<IDamagable>(out IDamagable damagable))
+        IDamagable damageable = collision2D.gameObject.GetComponent<IDamagable>();
+        if (damageable != null)
         {
-            damagable.Damage(damage);
+            damageable.Damage(damage);
         }
     }
 }

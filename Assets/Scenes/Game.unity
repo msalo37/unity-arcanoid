@@ -154,7 +154,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7712f0a8f97c5b48bb6eb30718aabed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 2
 --- !u!212 &46959562
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -277,7 +277,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7712f0a8f97c5b48bb6eb30718aabed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 4
 --- !u!212 &478116487
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -553,7 +553,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7712f0a8f97c5b48bb6eb30718aabed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 2
 --- !u!212 &585704080
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -676,7 +676,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7712f0a8f97c5b48bb6eb30718aabed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 2
 --- !u!212 &683890840
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -799,7 +799,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7712f0a8f97c5b48bb6eb30718aabed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 4
 --- !u!212 &685802391
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -922,7 +922,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7712f0a8f97c5b48bb6eb30718aabed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 2
 --- !u!212 &704219400
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1028,7 +1028,7 @@ GameObject:
   - component: {fileID: 853417831}
   m_Layer: 0
   m_Name: Plank
-  m_TagString: Untagged
+  m_TagString: Plank
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1169,7 +1169,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7712f0a8f97c5b48bb6eb30718aabed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 2
 --- !u!212 &882543094
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1292,7 +1292,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7712f0a8f97c5b48bb6eb30718aabed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 4
 --- !u!212 &922196049
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1415,7 +1415,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7712f0a8f97c5b48bb6eb30718aabed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 4
 --- !u!212 &1037232294
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1538,7 +1538,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7712f0a8f97c5b48bb6eb30718aabed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 2
 --- !u!212 &1123148683
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1702,7 +1702,7 @@ GameObject:
   - component: {fileID: 1437522287}
   m_Layer: 0
   m_Name: Ball
-  m_TagString: Untagged
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1853,7 +1853,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7712f0a8f97c5b48bb6eb30718aabed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 4
 --- !u!212 &1558535634
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1976,7 +1976,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7712f0a8f97c5b48bb6eb30718aabed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 4
 --- !u!212 &1663560295
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2099,7 +2099,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7712f0a8f97c5b48bb6eb30718aabed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 2
 --- !u!212 &1725863298
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2222,7 +2222,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7712f0a8f97c5b48bb6eb30718aabed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 1
+  health: 4
 --- !u!212 &1836253263
 SpriteRenderer:
   m_ObjectHideFlags: 0

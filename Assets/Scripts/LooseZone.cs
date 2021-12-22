@@ -6,11 +6,10 @@ public class LooseZone : MonoBehaviour
 {
     private void OnCollisionEnter2D(Collision2D collision2D) 
     {
-        Ball ball = collision2D.gameObject.GetComponent<Ball>();
-        if (ball != null)
+        if (collision2D.gameObject.CompareTag("Ball"))
         {
             Debug.Log("You loose!");
-            Destroy(ball.gameObject);
+            Destroy(collision2D.gameObject);
         }
     }
 }
